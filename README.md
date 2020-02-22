@@ -1,6 +1,7 @@
 # Account login
 
-Cookie-based Authentication登入功能實作，由Node.js、Express、Express-handlebars、Express-session、body-parser 建置
+Cookie-based Authentication登入功能實作，
+由 Node.js、Express、Express-handlebars、Express-session、body-parser 建置
 
 ## 功能表
 
